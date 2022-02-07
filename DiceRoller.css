@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(57, 139, 57);
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+
